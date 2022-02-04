@@ -1,2 +1,2 @@
 # IR-DM_Assignment_4-5
-Assignment from Information Retrieval and Data Mining
+Assignment of Information Retrieval and Data Mining
